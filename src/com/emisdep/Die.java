@@ -8,7 +8,7 @@ public class Die {
     private int sides;
 
     public Die() {
-        value = 1;
+        value = 0;
     }
 
     public Die(int sides, int value) {
