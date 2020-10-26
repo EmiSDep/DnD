@@ -27,11 +27,4 @@ public class Player {
         return name;
     }
 
-    public int getDefense() {
-        return defense;
-    }
-
-    public void setDefense(int defense) {
-        this.defense = defense;
-    }
 }
